@@ -1,20 +1,20 @@
 ### Hi there 👋
 
 <p align="center">
- <h2 align="center">AmandaloveYang</h2>
+ <h2 align="center">yangyuan-zhen</h2>
  <p align="center">一个热爱编程的前端开发者 👨‍💻</p>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AmandaloveYang">GitHub</a> |
+  <a href="https://github.com/yangyuan-zhen">GitHub</a> |
   <a href="https://juejin.cn/user/1627734491274120">掘金主页</a>
 </p>
 
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AmandaloveYang&show_icons=true&theme=radical&locale=cn"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandaloveYang&layout=compact&theme=radical&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yangyuan-zhen&show_icons=true&theme=radical&locale=cn"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangyuan-zhen&layout=compact&theme=radical&locale=cn"/>
 </div>
 
 ## 🚀 技术栈
@@ -46,8 +46,8 @@
 - Chrome Extension API
 
 <div align="center">
-   <a href="https://github.com/AmandaloveYang/ClearPage">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AmandaloveYang&repo=ClearPage&theme=radical&locale=cn&cache_seconds=1800" />
+   <a href="https://github.com/yangyuan-zhen/ClearPage">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yangyuan-zhen&repo=ClearPage&theme=radical&locale=cn&cache_seconds=1800" />
   </a>
   <!-- 这里可以添加更多你想展示的项目 -->
 </div>
@@ -65,5 +65,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmandaloveYang&color=blueviolet" alt="访问量统计" />
+  <img src="https://komarev.com/ghpvc/?username=yangyuan-zhen&color=blueviolet" alt="访问量统计" />
 </p>
