@@ -23,27 +23,13 @@
 - UI 框架: Element UI, Ant Design
 - 构建工具: Webpack, Vite
 - 版本控制: Git
-- 个人小程序：Free 信息
+- 个人小程序：星域守护
 
 ## 💼 项目展示
 
 ### ClearPage - Chrome 缓存清理插件 ⭐️
 
-一个简单高效的 Chrome 扩展，帮助用户快速清理特定网站的缓存、Cookie 等浏览数据。
 
-**主要特性：**
-
-- 🎯 精确清理当前网站的缓存数据
-- 🔄 清理后自动刷新页面
-- ⚠️ 敏感数据清理前有安全提示
-- 🎨 简洁美观的操作界面
-- 🌍 支持国际化
-
-**技术栈：**
-
-- TypeScript + React
-- Tailwind CSS
-- Chrome Extension API
 
 <div align="center">
    <a href="https://github.com/yangyuan-zhen/ClearPage">
