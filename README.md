@@ -28,13 +28,13 @@
 
 ### ClearPage - Chrome 缓存清理插件 ⭐️
 
-
-
 <div align="center">
    <a href="https://github.com/yangyuan-zhen/ClearPage">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yangyuan-zhen&repo=ClearPage&theme=radical&locale=cn&cache_seconds=1800" />
   </a>
-  <!-- 这里可以添加更多你想展示的项目 -->
+    <a href=" https://github.com/yangyuan-zhen/polysniper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yangyuan-zhen&repo=polysniper&theme=radical&locale=cn&cache_seconds=1800" />
+  </a>
 </div>
 
 ## 📫 联系我
