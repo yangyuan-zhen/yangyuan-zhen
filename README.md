@@ -41,10 +41,10 @@
 
 <p align="center">
   <a href="https://github.com/yangyuan-zhen/ClearPage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yangyuan-zhen&repo=ClearPage&theme=radical&locale=cn&cache_seconds=1800" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=yangyuan-zhen&repo=ClearPage&theme=radical&locale=cn&cache_seconds=1800&hide_border=true" />
   </a>
   <a href="https://github.com/yangyuan-zhen/polysniper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yangyuan-zhen&repo=polysniper&theme=radical&locale=cn&cache_seconds=1800" />
+    <img width="420" src="https://github-readme-stats.vercel.app/api/pin/?username=yangyuan-zhen&repo=polysniper&theme=radical&locale=cn&cache_seconds=1800&hide_border=true" />
   </a>
 </p>
 
